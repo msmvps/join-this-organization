@@ -1,5 +1,8 @@
 # How to join the Microsoft MVPs organization on GitHub
 
+## Why should I join?
+This organization is a shared account where MVPs & rMVPs can collaborate on open-source projects
+
 ## Request to join
 
 [Create an issue in this repository](https://github.com/msmvps/join-this-organization/issues) with a link to your Microsoft MVP profile on Microsoft's website, which you can find on [https://mvp.microsoft.com](https://mvp.microsoft.com]). The link should look something like:
