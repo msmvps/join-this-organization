@@ -5,7 +5,7 @@ This organization is a shared account where MVPs & rMVPs can collaborate on open
 
 ## Request to join
 
-[Create an issue in this repository](https://github.com/msmvps/join-this-organization/issues) with a link to your Microsoft MVP profile on Microsoft's website, which you can find on [https://mvp.microsoft.com](https://mvp.microsoft.com]). The link should look something like:
+[Create an issue in this repository](https://github.com/msmvps/join-this-organization/issues) with a link to your Microsoft MVP profile on Microsoft's website, which you can find on [https://mvp.microsoft.com](https://mvp.microsoft.com). The link should look something like:
 ``` 
 https://mvp.microsoft.com/en-us/mvp/Your%20Name-9999999
 ```
