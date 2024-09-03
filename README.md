@@ -17,7 +17,7 @@ Make sure that the Microsoft MVP Profile contains a link to your GitHub profile.
 
 You'll receive an email with an invite to join the organization.
 
-> The invitation will be sent either to the GitHub profile in the Microsoft MVP profile or to the email address specified in the Microsoft MVP profile - depending on your selection in the GitHub issue.
+> The invite will be sent either to the GitHub profile in the Microsoft MVP profile or to the email address specified in the Microsoft MVP profile - depending on your selection in the GitHub issue.
 
 ## Publicize your organization membership
 
