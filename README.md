@@ -6,21 +6,18 @@ This organization is a shared account where MVPs & rMVPs can collaborate on open
 ## Request to join
 
 [Create an issue in this repository](https://github.com/msmvps/join-this-organization/issues) with a link to your Microsoft MVP profile on Microsoft's website, which you can find on [https://mvp.microsoft.com](https://mvp.microsoft.com). The link should look something like:
-``` 
-https://mvp.microsoft.com/en-us/mvp/Your%20Name-9999999
+
 ```
-or
-```
-https://mvp.microsoft.com/en-us/PublicProfile/9999999?fullName=Your%20Name
+https://mvp.microsoft.com/en-US/MVP/profile/00000000-0000-0000-0000-000000000000
 ```
 
 Make sure that the Microsoft MVP Profile contains a link to your GitHub profile.
 
 ![Microsoft MVP Social Links](media/msmvp-profile-social-links.png)
 
-You'll receive an e-mail with an invite to join the organization.
+You'll receive an email with an invite to join the organization.
 
-> The invite will be sent to the GitHub profile listed in the Microsoft MVP Profile.
+> The invitation will be sent either to the GitHub profile in the Microsoft MVP profile or to the email address specified in the Microsoft MVP profile - depending on your selection in the GitHub issue.
 
 ## Publicize your organization membership
 
